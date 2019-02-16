@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /learndiemaking.com/4309dlk49kl/
+Disallow: /learndiemaking.com/wp-content/themes/oliva/data/E-handbook.pdf
